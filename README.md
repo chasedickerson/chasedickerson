@@ -34,6 +34,9 @@
 
 Here are a few highlights — check out the repos below!
 
+- 👨🏻‍💻 **[Developer Portfolio Site](https://github.com/chasedickerson/portfolio) ** – Next.js
+
+
 More to come... Work In Progress
 
 ---
@@ -42,7 +45,7 @@ More to come... Work In Progress
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chasedickerson-cs)
 
-![Portfolio](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white) *(WIP)*
+[![Portfolio](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://chasedickerson.vercel.app)
 
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chasedickerson232@gmail.com)
 
