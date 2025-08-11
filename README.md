@@ -35,6 +35,7 @@
 Here are a few highlights — check out the repos below!
 
 - 👨🏻‍💻 **[Developer Portfolio Site](https://github.com/chasedickerson/portfolio) ** – Next.js
+- 🥧 **[Raspberry Pi Chat](https://github.com/chasedickerson/raspberry-pi-chat-java) ** – Java, Spring Boot, HTML, Javascript
 
 
 More to come... Work In Progress
