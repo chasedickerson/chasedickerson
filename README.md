@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Chase 👋</h1>
+<h1 align="center">Hi, I'm Chase 👋</h1> 
 
 <p align="center">
   <b>Software Engineer | Cloud-Native APIs | Java & DevOps</b><br>
@@ -51,4 +51,3 @@ More to come... Work In Progress
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chasedickerson232@gmail.com)
 
 ---
-
